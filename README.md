@@ -67,19 +67,36 @@ I would recommend Stripe to offer a credit card, and expand their business to co
 
 ## Sources
 https://www.bloomberg.com/profile/company/0170016D:US
+
 https://www.telegraph.co.uk/technology/2021/02/23/two-brothers-rural-ireland-built-115bn-payments-giant/
+
 https://www.crunchbase.com/organization/stripe/company_financials
-https://www.forbes.com/sites/roberthof/2015/08/18/in-conversation-stripe-ceo-patrick-collison-on-the-limitless-potential-of-payments/?sh=4f649fb0126a
+
+https://www.forbes.com/sites/roberthof/2015/08/18/in-conversation-stripe-ceo-patrick-collison-on-the-limitless-potential-of-
+payments/?sh=4f649fb0126a
+
 https://www.statista.com/outlook/dmo/fintech/digital-payments/worldwide#transaction-value
+
 https://stripe.com/en-ca/use-cases/global-businesses#:~:text=Stripe%20lets%20you%20accept%2C%20store,declines%20with%20powerful%20machine%20learning.
+
 https://www.thinkingdimensions.com/blog/strategy/what-makes-stripe-different
+
 https://blog.back4app.com/stripe-tech-stack/#:~:text=According%20to%20Matt%20Basta%2C%20software,backend%20services%20of%20Stripe%20mostly.
+
 https://stackshare.io/stripe/stripe
+
 https://www.insiderintelligence.com/insights/financial-services-industry/#:~:text=From%20personal%20finance%20to%20commercial,influence%20of%20big%20tech%20companies.
+
 https://www.forbes.com/sites/googlecloud/2021/02/05/6-trends-that-will-shape-the-financial-services-industry-in-2021/?sh=2c2104d542b6
+
 https://www.fundera.com/blog/stripe-competitors
+
 https://fitsmallbusiness.com/stripe-alternatives/
+
 https://businesschronicler.com/competitors/stripe-competitors-analysis/
+
 https://www.carterconsulting.co.uk/blog/digital-marketing-metrics-every-fintech-company-should-measure
+
 https://news.crunchbase.com/venture/under-the-hood-a-closer-look-at-stripe-the-most-highly-valued-venture-backed-private-company-in-the-us/#:~:text=Stripe%27s%20business&text=The%20company%20generated%20%247.4%20billion,e%2Dcommerce%20APIs%20for%20developers.
+
 https://backlinko.com/stripe-users
