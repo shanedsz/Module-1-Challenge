@@ -33,6 +33,8 @@ Patrick had already founded and sold a company called Auctomatic which offered a
 
 ***What are the other major competitors in this domain:*** Major competitors in this domain include Visa and Mastercard. For Stripe in particular, some other competitors include PayPal, Square, Adyen, WePay, Stax, PaymentCloud, and more.
 
+### Results
+
 ***What has been the business impact of this company so far:*** Stripe provides online payment processing tools for companies and individuals around the globe where payments can be accepted over the internet. The company has expanded into a wide suite of products which facilitate online internet transactions and internal corporate and external B2B payment service capabilities for businesses whether small or large. Stripe worked as an intermediary business, and made it possible for end-consumers and end-businesses to accept payments simply by adding a few lines of code to your website. 
  
 ***What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics:*** Core metrics that companies in the fintech domain use to measure success include: 
@@ -46,13 +48,38 @@ Patrick had already founded and sold a company called Auctomatic which offered a
 - Customer lifetime value
 - Marketshare %
 
-***How is Stripe performing based on metrics*** The company generated $7.4 billion in revenue last year (2020), up to 70 percent year-over-year. For each $100 billion in transaction value, Stripe earns $2.9 billion. Before adding in the per transaction fee. Currently, Stripes’ online payment processing service is controlling a market share of about 16.67% in the global payments industry. Investors have valued the company at $115 billion in 2021. Stripes overall valuations and revenues have been climbing at significant rates during the covid-19 pandemic.
+***How is Stripe performing based on metrics:*** The company generated $7.4 billion in revenue last year (2020), up to 70 percent year-over-year. For each $100 billion in transaction value, Stripe earns $2.9 billion. Before adding in the per transaction fee. Currently, Stripes’ online payment processing service is controlling a market share of about 16.67% in the global payments industry. Investors have valued the company at $115 billion in 2021. Stripes overall valuations and revenues have been climbing at significant rates during the covid-19 pandemic.
 
 ***(Metrics) Key Stripe Statistics:*** 
--Stripe is currently valued at $94.4 billion (nearly 3x higher than its valuation in April 2020).
--Currently, 3.1 million active websites use Stripe.
--Stripe has raised a total of $2.2 billion in investments.
--Elon Musk was among the early investors in Stripe during a seed round in 2011.
--Stripe has 39 investors.
--Stripe holds 48 patents.
+- Stripe is currently valued at $94.4 billion (nearly 3x higher than its valuation in April 2020).
+- Currently, 3.1 million active websites use Stripe.
+- Stripe has raised a total of $2.2 billion in investments.
+- Elon Musk was among the early investors in Stripe during a seed round in 2011.
+- Stripe has 39 investors.
+- Stripe holds 48 patents.
 
+***How is your company performing relative to competitors in the same domain:*** Both Paypal and Square generate higher revenues than Stripe. Paypal generated $25.37 billion for 2021, Square generated $17.66 billion for 2021 and Stripe generated about $12 billion. 
+
+### Recommendations 
+
+I would recommend Stripe to offer a credit card, and expand their business to consumer and business payments anywhere a credit card is accepted. Offering this will increase revenue for the company as the credit card business is very lucrative. It makes a lot of money in interest rates and fees. Stripe's abundance of security measures would be heavily utilized. 
+
+
+## Sources
+https://www.bloomberg.com/profile/company/0170016D:US
+https://www.telegraph.co.uk/technology/2021/02/23/two-brothers-rural-ireland-built-115bn-payments-giant/
+https://www.crunchbase.com/organization/stripe/company_financials
+https://www.forbes.com/sites/roberthof/2015/08/18/in-conversation-stripe-ceo-patrick-collison-on-the-limitless-potential-of-payments/?sh=4f649fb0126a
+https://www.statista.com/outlook/dmo/fintech/digital-payments/worldwide#transaction-value
+https://stripe.com/en-ca/use-cases/global-businesses#:~:text=Stripe%20lets%20you%20accept%2C%20store,declines%20with%20powerful%20machine%20learning.
+https://www.thinkingdimensions.com/blog/strategy/what-makes-stripe-different
+https://blog.back4app.com/stripe-tech-stack/#:~:text=According%20to%20Matt%20Basta%2C%20software,backend%20services%20of%20Stripe%20mostly.
+https://stackshare.io/stripe/stripe
+https://www.insiderintelligence.com/insights/financial-services-industry/#:~:text=From%20personal%20finance%20to%20commercial,influence%20of%20big%20tech%20companies.
+https://www.forbes.com/sites/googlecloud/2021/02/05/6-trends-that-will-shape-the-financial-services-industry-in-2021/?sh=2c2104d542b6
+https://www.fundera.com/blog/stripe-competitors
+https://fitsmallbusiness.com/stripe-alternatives/
+https://businesschronicler.com/competitors/stripe-competitors-analysis/
+https://www.carterconsulting.co.uk/blog/digital-marketing-metrics-every-fintech-company-should-measure
+https://news.crunchbase.com/venture/under-the-hood-a-closer-look-at-stripe-the-most-highly-valued-venture-backed-private-company-in-the-us/#:~:text=Stripe%27s%20business&text=The%20company%20generated%20%247.4%20billion,e%2Dcommerce%20APIs%20for%20developers.
+https://backlinko.com/stripe-users
